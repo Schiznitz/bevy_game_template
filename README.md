@@ -41,3 +41,6 @@ This project is licensed under [CC0 1.0 Universal](LICENSE) except some content 
 [bevy-discord]: https://discord.gg/bevy
 [nikl-twitter]: https://twitter.com/nikl_me
 [firefox-sound-issue]: https://github.com/NiklasEi/bevy_kira_audio/issues/9
+
+# Enable Fast Compiles
+https://bevyengine.org/learn/book/getting-started/setup/
